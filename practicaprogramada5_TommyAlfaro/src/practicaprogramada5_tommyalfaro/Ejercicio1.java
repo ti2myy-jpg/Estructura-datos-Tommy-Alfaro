@@ -30,7 +30,7 @@ public class Ejercicio1 {
         arbol.insertar(6);
         arbol.insertar(-17);
         arbol.insertar(24);
-        arbol.insertar(10);
+        arbol.insertar(-10);
         arbol.insertar(19);
 
         System.out.println("Recorrido postorden");
